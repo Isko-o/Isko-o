@@ -2,6 +2,7 @@
 
 
 * I'm **>''SkZ**, a french developer 💻
+* My tools and bots are posted on my github for educational purposes only, so I am not responsible for what you do with them 🚩
 * I'm currently learn Python <img alt="Isko-o" src="https://devstickers.com/assets/img/pro/p3jo.png" width="20">
 * I speak French, English 🔊
 * My [__Discord Server__](https://discord.gg/z3H284tffz)
