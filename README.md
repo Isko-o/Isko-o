@@ -2,7 +2,7 @@
 
 
 * I'm **>''SkZ**, a french developer 💻
-* I'm currently learn Python 🐍
+* I'm currently learn Python <img alt="Isko-o" src="https://devstickers.com/assets/img/pro/p3jo.png" width="20">
 * I speak French, English 🔊
 * My [__Discord Server__](https://discord.gg/z3H284tffz)
 
