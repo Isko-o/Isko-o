@@ -11,13 +11,6 @@
 
 ### **Languages and Technologies:**
 
-<p float="left">
- <a href="https://www.java.com/">
-<img alt="Isko-o" src="https://devstickers.com/assets/img/pro/7kaq.png" width="40">
- </a>
- <a href="https://www.python.org/">
-<img alt="Isko-o" src="https://devstickers.com/assets/img/pro/p3jo.png" width="40">
- </a>
  <a href="https://en.wikipedia.org/wiki/JavaScript">
 <img alt="Isko-o" src="https://devstickers.com/assets/img/pro/i4eg.png" width="40">
  <a href="https://nodejs.org/en/">
@@ -37,6 +30,4 @@
 
 -----
 
-Credit: [>"SkZ](https://github.com/Isko-o)
-
-Last edited on : 04/07/2021
+Credit : `!Saw#0001`
