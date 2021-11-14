@@ -13,8 +13,6 @@
 
  <a href="https://en.wikipedia.org/wiki/JavaScript">
 <img alt="Isko-o" src="https://devstickers.com/assets/img/pro/i4eg.png" width="40">
- <a href="https://nodejs.org/en/">
-<img alt="Isko-o" src="https://devstickers.com/assets/img/pro/iuw5.png" width="40">
  <a href="https://code.visualstudio.com/">
 <img alt="Isko-o" src="https://devstickers.com/assets/img/pro/saxu.png" width="40">
   </a>
@@ -25,8 +23,6 @@
 <img alt="Isko-o" src="https://devstickers.com/assets/img/pro/y4b0.png" width="40">
   </a>
    </a>
-   <img alt="Isko-o" src="https://devstickers.com/assets/img/pro/ny2e.png" width="40">
-</p>
 
 -----
 
